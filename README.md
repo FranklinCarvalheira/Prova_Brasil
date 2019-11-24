@@ -1,9 +1,10 @@
 # Média de alunos que tiraram abaixo de 400 pontos na "PROVA BRASIL"
 
-##**Saber quantos alunos tiraram média abaixo de 400 pontos.**
+**Saber quantos alunos tiraram média abaixo de 400 pontos.**
 
-######**Dados públicos retirados do site da INEP.**
-######**Download da 'Prova Brasil de 2011'.**
+**Dados públicos retirados do site da INEP.**
+
+**Download da 'Prova Brasil de 2011'.**
 link:
 http://inep.gov.br/microdados
 
