@@ -1,6 +1,7 @@
-# Média de alunos que tiraram abaixo de 400 pontos na "PROVA BRASIL"
+# Média das notas por município da "PROVA BRASIL"
 
-**Saber quantos alunos tiraram média abaixo de 400 pontos.**
+**Quais redes de ensino "estadual, municipal e pública" tem um percentual mais baixo por região.**
+
 
 **Dados públicos retirados do site da INEP.**
 
@@ -11,7 +12,7 @@ http://inep.gov.br/microdados
 
 
 
--Instalando configurações necessarias no **prompt de comando**.
+Instalando configurações necessarias no **prompt de comando**.
 ```
 # pip install -r requirements.txt
 ```
