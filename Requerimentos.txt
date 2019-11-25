@@ -1,5 +1,0 @@
-#Bibliotecas
-
-* numpy
-* pandas
-* docker-py
